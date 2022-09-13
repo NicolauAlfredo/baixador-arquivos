@@ -12,7 +12,7 @@ body{
   display: flex; 
   min-height: 100vh;
   align-items: center;
-  background: #4285F4;
+  background: #292936;
   justify-content: center;
 }
 
@@ -47,7 +47,7 @@ form button {
     border: none;
     outline: none;
     color: #fff;
-    background: #4285F4;
+    background: #292936;
     padding: 15px 0;
     cursor: pointer;
     margin-top: 20px;
